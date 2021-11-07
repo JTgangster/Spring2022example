@@ -1,0 +1,13 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+Random password generator
+building a game
+hangman?
+calculator
+## If you plan to collaborate with one or two classmates, what are their names?
+Johnny Tran or it's just me.
+
+## Do you have any questions of your own?
+How many lines of codes ?
+
