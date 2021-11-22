@@ -1,29 +1,25 @@
 # Status Report
 
 #### Your name
-
-TODO
+Johnny Tran
 
 #### Your section leader's name
 
-TODO
-
+Johnny Tran
 #### Project title
 
-TODO
+InstaWeb
 
-***
+
 
 Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
 
 #### What have you done for your project so far?
 
-TODO
-
+I reserach what programming languages I will need to build it.
 #### What have you not done for your project yet?
-
-TODO
+I havnt added the social network basic featurees like activity feed and comments.
 
 #### What problems, if any, have you encountered?
 
-TODO
+The requirements to built a social media website is alot to learn..
