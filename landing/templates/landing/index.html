@@ -1,0 +1,16 @@
+{% extends 'landing/base.html' %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-10 col-sm-12 text-center">
+            <h1 class="display-3">Connect To The Globe</h1>
+            <p class="mt-4 lead">Follow people,like tweets,join conversations, engages in discussions and share posts!</p>
+            <div class="d-flex justify-content-center mt-4"> <!-- flexbox so that by deafult it will set the flux direction to row so set all the items within the fledxbox to be side by side -->
+                <a href="{% url 'account_login' %}" class="btn btn-blue mr-3">Sign In</a>
+                <a href="{% url 'account_signup' %}" class="btn btn-dark">Sign Up</a> 
+            </div> <!-- close off the columns, rows and containers -->
+        </div>
+    </div>
+</div>
+{% endblock content %}
